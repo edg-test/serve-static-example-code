@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "@layer0/core": {
+      "signature": "3cfa4016e2938d505065708c55e96eca",
+      "file": true,
+      "replaced": "^4.15.1"
+    }
+  }
+}
